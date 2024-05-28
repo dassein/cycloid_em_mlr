@@ -47,8 +47,8 @@ Our analysis provides a new framework for studying the behavior of EM for Mixed 
 Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name/code
+git clone https://github.com/dassein/cycloid_em_mlr.git
+cd cycloid_em_mlr/code
 ```
 
 ## Experiments

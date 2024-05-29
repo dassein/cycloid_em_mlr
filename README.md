@@ -12,7 +12,7 @@ _Authors_: [Zhankun Luo](https://zhankunluo.com/), [Abolfazl Hashemi](https://ab
 _Conference_: International Conference on Machine Learning (ICML)  
 _Year_: 2024
 
-The paper can be accessed [here](link_to_paper).
+The paper can be accessed [here](https://arxiv.org/pdf/2405.18237).
 
 ## Abstract
 
